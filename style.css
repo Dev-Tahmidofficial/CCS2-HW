@@ -1,0 +1,91 @@
+.blog {
+    width: 400px;
+    font-family: arial;
+    padding: 10px;
+    margin: 10px auto 10px auto;
+    box-sizing: border-box;
+    display: inline-block;
+  }
+
+
+  .box1{
+background-color: green;
+  }
+
+  #tah{
+    color: red;
+  }
+
+  #tahmid{ color:white;}
+
+.box2{
+    background-image: url(https://assets-global.website-files.com/606a802fcaa89bc357508cad/64237960cd0600ac5ca8e571_3_Why%20Your%20Business%20Needs%20a%20Website-p-2600.png);
+    background-size: cover;
+    background-position: bottom;
+}
+
+#lala{color: brown}
+#era{color: blue;}
+
+.box3{background-image: url(https://images.unsplash.com/photo-1688499693696-9c754d94a56e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8NnNNVmpUTFNrZVF8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60);
+background-size:cover;}
+
+#asad{color: aqua;}
+
+.tt{
+    background-color: aquamarine;
+}
+
+.box4{
+    background-image: linear-gradient(to right,red,blue);
+}
+
+.box5{
+    background: linear-gradient(to right, #dd3e54, #6be585); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.box6{
+    background: linear-gradient(to right, #f0f2f0, #000c40); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.box7{
+    background-image: linear-gradient( to right,red,transparent,green);
+}
+
+.box8{
+    background-image: url(../CSS2/panther.jpeg)
+    ;
+    background-size: cover;
+}
+#fafor{color: #dd3e54;}
+#tato{color: aqua;}
+
+.box9{
+background: linear-gradient(to right, #2c3e50, #fd746c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+}
+
+.box10{
+    background-color: hotpink;
+}
+.box11{
+    background-image: url(../CSS2/pata.avif);
+    background-size: cover;
+}
+
+.box12{
+    background-color: #fd746c;
+}
+
+.box13{
+    background-color: antiquewhite;
+}
+
+.box14{background-image: linear-gradient(to left,lightblue,transparent,red);}
+
+.box15{
+background: linear-gradient(to right, #f7ff00, #db36a4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */;
+}
+
+#golo{color: burlywood;}
+#hexa{color: aliceblue;}
